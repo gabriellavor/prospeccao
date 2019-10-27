@@ -1,0 +1,36 @@
+<div *ngIf="retorno.envio == true">
+    <div [ngClass]="(retorno.sucesso==true)? 'alert alert-success':'alert alert-danger'" >
+      <div *ngIf="retorno.sucesso==true; else falsyTemplate">
+          {{retorno.qtd}} registros incluidos e {{retorno.qtd_nao}} não incluidos
+      </div>
+      <ng-template #falsyTemplate>
+          Erro ao incluir
+      </ng-template>      
+    </div>  
+</div>
+<form [formGroup]="form" (ngSubmit)="onSubmit()">
+    <div class="form-group">
+      <label for="avatar">CSV</label>
+      <input type="file" id="avatar" (change)="onFileChange($event)" #fileInput>      
+    </div>
+    <button type="submit" [disabled]="form.invalid || loading" class="btn btn-success">Importar clientes <i class="fa fa-spinner fa-spin fa-fw" *ngIf="loading"></i></button>
+    <button type="button" class="btn btn-default" (click)="clearFile()">Limpar</button>
+    <a class="btn btn" [routerLink]="['/clientes/clientes']">
+        Voltar
+      </a>
+  </form>
+
+<div *ngIf="retorno.erros.length > 0" class="table-responsive">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Erros de importação</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let erro of retorno.erros">
+                {{erro}}
+            </tr>
+        </tbody>
+    </table>
+</div>    

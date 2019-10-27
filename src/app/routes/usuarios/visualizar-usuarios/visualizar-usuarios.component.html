@@ -1,0 +1,14 @@
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Informações do Usuário</h3>
+  </div>
+  <div class="panel-body">
+      <p>Nome : {{usuario.usua_nome}}</p>
+      <p>E-Mail : {{usuario.usua_email}}</p>
+      <p>Usuário Ativo : {{usuario.usua_ativo ? 'Sim' : 'Não'}}</p>
+      <p>Usuário Admin : {{usuario.usua_admin ? 'Sim' : 'Não'}}</p>
+    </div> 
+</div>
+<a class="btn btn" [routerLink]="['/usuarios/usuarios']">
+  Voltar
+</a>

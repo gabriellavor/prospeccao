@@ -1,0 +1,15 @@
+# VERSION 0.1
+#docker-compose up --force-recreate -d
+FROM ubuntu:16.04
+RUN apt-get -y update && apt-get -y upgrade && apt-get install -y python2.7 python-pip && apt-get install -y python3-pip && apt-get install -y curl && apt-get install -y vim && curl -o /usr/local/bin/googler https://raw.githubusercontent.com/jarun/googler/v3.6/googler && chmod +x /usr/local/bin/googler && apt-get install -y aptitude && aptitude install -y locales && locale-gen en_US.UTF-8 && update-locale en_US.UTF-8 && apt-get install -y wget && apt-get install -y cron && apt-get clean
+ENV LC_ALL en_US.UTF-8
+ENV LANG en_US.UTF-8
+ENV LANGUAGE en_US.UTF-8
+ENV PYTHONIOENCODING utf8
+RUN touch /var/log/cron.log
+COPY crontab /var/spool/cron/crontabs/root
+RUN chmod 0600 /var/spool/cron/crontabs/root
+COPY requirements.txt /requirements/
+RUN pip install --upgrade && pip install pip -r /requirements/requirements.txt
+ADD . /requirements/
+CMD /usr/sbin/cron -f

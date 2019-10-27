@@ -1,0 +1,11 @@
+<div class="panel panel-default text-center">
+    <div class="panel-heading">
+        <h3 class="panel-title">Lead X Cliente</h3>        
+    </div>    
+    <div class="panel-body">
+      <canvas baseChart [chartType]="'bar'" [options]="barOptions"
+        [datasets]="barData.datasets" [colors]="barColors"
+        [labels]="barData.labels" [legend]="false" height="120"></canvas>
+    </div>
+</div>    
+  

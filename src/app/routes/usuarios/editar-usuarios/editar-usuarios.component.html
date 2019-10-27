@@ -1,0 +1,48 @@
+<div *ngIf="retorno.envio == true">
+  <div [ngClass]="(retorno.sucesso==true)? 'alert alert-success':'alert alert-danger'" >
+    {{retorno.mensagem}}     
+  </div>  
+</div>
+<form #formulario="ngForm" (ngSubmit)="onSubmit(formulario)">
+  <div class="form-group">
+    <label for="nome">Nome</label>
+    <input type="text" placeholder="Nome" class="form-control" id="nome"
+    name="nome" [(ngModel)]="usuario.nome" required #nome="ngModel">
+  </div>
+  <div *ngIf="!nome.valid && nome.touched" class="alert alert-danger" role="alert">
+    Nome é obrigatório
+  </div>
+
+  <div class="form-group">
+      <label for="email">E-mail</label>
+      <input type="email" placeholder="E-mail" class="form-control" id="email"
+      name="email" [(ngModel)]="usuario.email" email required #email="ngModel">
+  </div>
+  <div *ngIf="!email.valid && email.touched" class="alert alert-danger" role="alert">
+    E-mail é obrigatório
+  </div>
+
+  <div class="form-group">
+    <label for="senha">Senha</label>
+    <input type="password" placeholder="Senha" class="form-control" id="senha"
+    name="senha" [(ngModel)]="usuario.senha" required #senha="ngModel">
+  </div>
+  <div *ngIf="!senha.valid && senha.touched" class="alert alert-danger" role="alert">
+    Senha é obrigatório
+  </div>
+  <div class="form-group">
+    <label for="confirmarSenha">Confirmar Senha</label>
+    <input type="password" placeholder="confirmar Senha" class="form-control" id="confirmarSenha"
+    name="confirmarSenha" [(ngModel)]="usuario.confirmarSenha" required #confirmarSenha="ngModel">
+  </div>
+  <div *ngIf="!confirmarSenha.valid && confirmarSenha.touched" class="alert alert-danger" role="alert">
+    Confirme a senha
+  </div>
+  <div *ngIf="senha.value != confirmarSenha.value && senha.touched" class="alert alert-danger" role="alert">
+    Senhas não conferem
+  </div>
+  <button type="submit" class="btn btn-success" [disabled]="!formulario.valid || senha.value != confirmarSenha.value">Alterar Dados</button>
+  <a class="btn btn" [routerLink]="['/usuarios/usuarios']">
+    Voltar
+  </a>
+</form>

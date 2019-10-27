@@ -1,0 +1,20 @@
+<div *ngIf="retorno.envio == true">
+  <div [ngClass]="(retorno.sucesso==true)? 'alert alert-success':'alert alert-danger'" >
+    {{retorno.mensagem}}     
+  </div>  
+</div>
+<form #formulario="ngForm" (ngSubmit)="onSubmit(formulario)">
+  <div class="form-group">
+    <label for="descricao">Termo</label>
+    <input type="text" placeholder="Descrição" class="form-control" id="descricao"
+    name="descricao" ngModel required #descricao="ngModel">
+  </div>
+  <div *ngIf="!descricao.valid && descricao.touched" class="alert alert-danger" role="alert">
+    Termo é obrigatório
+  </div>
+
+  <button type="submit" class="btn btn-success" [disabled]="!formulario.valid">Incluir Termo</button>
+  <a class="btn btn" [routerLink]="['/termos/termos']">
+    Voltar
+  </a>
+</form>

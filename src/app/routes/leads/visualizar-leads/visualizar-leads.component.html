@@ -1,0 +1,52 @@
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Informações da Empresa</h3>
+  </div>
+  <div class="panel-body">
+      <p>Razão Social : {{lead.lead_razao_social}}</p>
+      <p>CNPJ : {{lead.lead_cnpj | cnpjMask}}</p>
+      <p>Porcentagem : {{lead.lead_porcentagem | decimalMask}} %</p>
+    </div> 
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Contatos</h3>
+  </div>
+  <div class="panel-body">
+    <div *ngFor="let cont of lead.contato">
+      {{cont.tcon_descricao}} - {{cont.cont_descricao}}
+    </div> 
+  </div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Endereço</h3>
+  </div>
+  <div class="panel-body">
+      <p>{{lead.lead_rua}} - {{lead.lead_bairro}} - {{lead.lead_cep}}</p>
+      <p>{{lead.lead_cidade}} - {{lead.lead_uf}}</p> 
+  </div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">CNAE</h3>
+  </div>
+  <div class="panel-body">
+    <div *ngFor="let cnae of lead.cnae">
+      {{cnae.cnae_codigo_cnae}} - {{cnae.cnae_descricao}}
+    </div> 
+  </div>
+</div>
+
+<div *ngIf="lead.facebook != undefined && lead.facebook.name != null" class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Facebook</h3>
+  </div>
+  <div class="panel-body">
+    {{lead.facebook.name}}
+    {{lead.facebook.phone}}
+  </div>
+</div>

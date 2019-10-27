@@ -1,0 +1,58 @@
+<div class="row">
+  <div class="col-lg-12">
+          <div class="text-right">
+              <a class="btn btn-success" [routerLink]="['/usuarios/incluir-usuarios']">
+                Incluir <em class="icon-plus"></em> 
+              </a>
+          </div>
+      </div>
+</div>
+<br>
+<div class="row">
+  <div class="col-lg-12">
+      <div class="panel panel-default">
+          <div class="panel-heading">{{title}}</div>
+          <div class="panel-body">
+              <div class="table-responsive">
+                  <table class="table table-hover">
+                      <thead>
+                          <tr>
+                              <th>Nome</th>
+                              <th>E-Mail</th>
+                              <th>Admin</th>
+                              <th>Ativo</th>
+                          </tr>
+                      </thead>
+                      <tbody>
+                          <tr *ngFor="let usuario of usuarios">
+                              <td>{{usuario.usua_nome}}</td>
+                              <td>{{usuario.usua_email}}</td>
+                              <td>{{usuario.usua_admin == 1 ? 'Sim' : 'Não'}}</td>
+                              <td>{{usuario.usua_ativo == 1 ? 'Sim' : 'Não'}}</td>
+                              <td class="text-right">
+                                <a class="btn btn-primary" [routerLink]="['/usuarios/visualizar-usuarios',usuario.usua_codigo]">
+                                  <em class="icon-eye"></em>
+                                </a>
+                                <a *ngIf="usuario.usua_email != 'admin@admin.com'" class="btn btn-warning" [routerLink]="['/usuarios/editar-usuarios',usuario.usua_codigo]">
+                                  <em class="icon-pencil"></em>
+                                </a>
+                                <a *ngIf="usuario.usua_email != 'admin@admin.com'" [ngClass]="(usuario.usua_ativo==1)?'btn btn-danger':'btn btn-success'" (click)="inativarAtivar(usuario.usua_codigo,usuario.usua_ativo)">
+                                  <em [ngClass]="(usuario.usua_ativo==1)?'icon-trash':'icon-check'"></em>
+                                </a>
+                            </td>
+                          </tr>
+                          <div *ngIf="total > 10">
+                              <app-usuario-paginacao
+                              [qtdPorPagina]="10" 
+                              [totalRegistros]="total"
+                              [qtdAdjacentes]="3"
+                              (onPaginate)="paginar($event,10)">
+                              </app-usuario-paginacao>
+                            </div>
+                      </tbody>
+                  </table>
+              </div>
+          </div>
+      </div>
+  </div>
+</div>    

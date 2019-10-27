@@ -1,0 +1,17 @@
+<p>Esta porcentagem refere-se a relação de que um ramo de atividade de um lead possui com o ramo de atividade de um cliente,</p>
+<p>ao configurar uma porcentagem alta, o sistema irá retornar leads mais qualificados, e para uma sondagem a novos
+  mercados, recomenda-se uma porcentagem baixa.</p>
+<p>Para uma porcentagem alta recomenda-se 75% e para baixa 0%.</p>
+<div *ngIf="retorno.envio == true">
+  <div [ngClass]="(retorno.sucesso==true)? 'alert alert-success':'alert alert-danger'" >
+    {{retorno.mensagem}}     
+  </div>  
+</div>
+<form #formulario="ngForm" (ngSubmit)="onSubmit(formulario)">
+  <div class="form-group">
+    <label for="descricao">Porcentagem</label>
+    <input type="text" placeholder="Descricao" class="form-control" id="descricao"
+    name="descricao" [(ngModel)]= "descricao" required>
+  </div>
+  <button type="submit" class="btn btn-success" [disabled]="!formulario.valid">Definir Porcentagem</button>
+</form>

@@ -1,0 +1,6 @@
+*/1 * * * * sh /home/sistemas/prospeccao/data_mining/busca_novo.sh >> /home/sistemas/prospeccao/data_mining/execucao.log
+*/1 * * * * sh /home/sistemas/prospeccao/data_mining/baixa_novo.sh >> /home/sistemas/prospeccao/data_mining/execucao.log
+*/1 * * * * sh /home/sistemas/prospeccao/data_mining/procura_empresa.sh >> /home/sistemas/prospeccao/data_mining/execucao.log
+*/1 * * * * sh /home/sistemas/prospeccao/data_mining/consulta_empresa.sh >> /home/sistemas/prospeccao/data_mining/execucao.log
+*/1 * * * * /usr/bin/python3 /home/sistemas/prospeccao/data_mining/ia/grava_lead.py 1> /dev/tty1 2> /home/sistemas/temp.log
+*/5 * * * * sh /home/sistemas/prospeccao/data_mining/busca_cnae.sh >> /home/sistemas/prospeccao/data_mining/execucao.log

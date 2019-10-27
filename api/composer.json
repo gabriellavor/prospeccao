@@ -1,0 +1,16 @@
+{
+    "require": {
+        "slim/slim": "^3.0",
+        "slim/php-view": "^2.0",
+        "monolog/monolog": "^1.17",
+        "robmorgan/phinx": "^0.5.1",
+        "palanik/corsslim": "*",
+        "facebook/graph-sdk": "^5.6",
+        "linkedinapi/linkedin": "^1.1"
+    },
+     "autoload": {
+        "psr-4": {
+            "Api\\": "app/Api"
+        }
+    }
+}

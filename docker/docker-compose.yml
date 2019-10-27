@@ -1,0 +1,10 @@
+version: '3.3'
+volumes:
+  data:
+services:
+  python:
+    build: 
+      dockerfile: Dockerfile-app
+      context: .
+    volumes:
+      - /home/sistemas/truckpad2/data_mining:/var/www/html/truckpad

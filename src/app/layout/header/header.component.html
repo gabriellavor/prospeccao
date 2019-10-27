@@ -1,0 +1,51 @@
+<!-- START Top Navbar-->
+<nav class="navbar topnavbar" role="navigation">
+    <!-- START navbar header-->
+    <div class="navbar-header">
+        <a class="navbar-brand" href="#/">
+            <div class="brand-logo">
+                <img class="img-responsive" src="assets/img/logo.png" alt="App Logo" />
+            </div>
+            <div class="brand-logo-collapsed">
+                <img class="img-responsive" src="assets/img/logo-single.png" alt="App Logo" />
+            </div>
+        </a>
+    </div>
+    <!-- END navbar header-->
+    <!-- START Nav wrapper-->
+    <div class="nav-wrapper">
+        <!-- START Left navbar-->
+        <ul class="nav navbar-nav navbar-right">
+            <li>
+                <a title="Login" [routerLink]="['/login']">
+                    <em class="icon-login"></em>
+                </a>
+            </li>
+           <!-- <li>
+                <a title="Facebook" (click)="loginWithFacebook()">
+                    <em class="icon-lock"></em>
+                </a>
+            </li> -->
+            <!-- <li>
+                <a title="Linkedin" [href]="lk_url">
+                    <em class="icon-lock"></em>
+                </a>
+            </li> -->
+            <!-- <li>
+                <div *ngIf="usuario != undefined && usuario != null" class="user-block-picture">
+                    <div class="user-block-status">
+                        <img class="img-thumbnail img-circle" [src]="usuario.picture" title="{{usuario.nome}}" alt="Avatar" />
+                        <div class="circle circle-success circle-lg"></div>
+                    </div>
+                </div>
+            </li> -->
+            <!-- END lock screen-->
+        </ul>
+        <!-- END Left navbar-->
+    </div>
+    <!-- END Nav wrapper-->
+
+    <app-navsearch [visible]="getNavSearchVisible()" (onclose)="setNavSearchVisible(false)"></app-navsearch>
+
+</nav>
+<!-- END Top Navbar-->

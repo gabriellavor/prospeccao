@@ -1,0 +1,4 @@
+nltk
+peewee
+PyMySQL
+mysql-connector

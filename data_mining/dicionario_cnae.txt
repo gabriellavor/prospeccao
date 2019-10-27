@@ -1,0 +1,1325 @@
+Cultivo de arroz
+Cultivo de milho
+Cultivo de trigo
+Cultivo de outros cereais nao especificados anteriormente
+Cultivo de algodao herbaceo
+Cultivo de juta
+Cultivo de outras fibras de lavoura temporaria nao especificadas anteriormente
+Cultivo de cana-de-acucar
+Cultivo de fumo
+Cultivo de soja
+Cultivo de amendoim
+Cultivo de girassol
+Cultivo de outras oleaginosas de lavoura temporaria nao especificadas anteriormente
+Cultivo de abacaxi
+Cultivo de alho
+Cultivo de batata-inglesa
+Cultivo de cebola
+Cultivo de feijao
+Cultivo de mandioca
+Cultivo de melao
+Cultivo de melancia
+Cultivo de tomate rasteiro
+Cultivo de outras plantas de lavoura temporaria nao especificadas anteriormente
+Horticultura, exceto morango
+Cultivo de morango
+Cultivo de flores e plantas ornamentais
+Cultivo de laranja
+Cultivo de uva
+Cultivo de acai
+Cultivo de banana
+Cultivo de caju
+Cultivo de citricos, exceto laranja
+Cultivo de coco-da-baia
+Cultivo de guarana
+Cultivo de maca
+Cultivo de mamao
+Cultivo de maracuja
+Cultivo de manga
+Cultivo de pessego
+Cultivo de frutas de lavoura permanente nao especificadas anteriormente
+Cultivo de cafe
+Cultivo de cacau
+Cultivo de cha-da-india
+Cultivo de erva-mate
+Cultivo de pimenta-do-reino
+Cultivo de plantas para condimento, exceto pimenta-do-reino
+Cultivo de dende
+Cultivo de seringueira
+Cultivo de outras plantas de lavoura permanente nao especificadas anteriormente
+Producao de sementes certificadas, exceto de forrageiras para pasto
+Producao de sementes certificadas de forrageiras para formacao de pasto
+Producao de mudas e outras formas de propagacao vegetal, certificadas
+Criacao de bovinos para corte
+Criacao de bovinos para leite
+Criacao de bovinos, exceto para corte e leite
+Criacao de bufalinos
+Criacao de equinos
+Criacao de asininos e muares
+Criacao de caprinos
+Criacao de ovinos, inclusive para producao de la
+Criacao de suinos
+Criacao de frangos para corte
+Producao de pintos de um dia
+Criacao de outros galinaceos, exceto para corte
+Criacao de aves, exceto galinaceos
+Producao de ovos
+Apicultura
+Criacao de animais de estimacao
+Criacao de escargo
+Criacao de bicho-da-seda
+Criacao de outros animais nao especificados anteriormente
+Servico de pulverizacao e controle de pragas agricolas
+Servico de poda de arvores para lavouras
+Servico de preparacao de terreno, cultivo e colheita
+Atividades de apoio a agricultura nao especificadas anteriormente
+Servico de inseminacao artificial em animais
+Servico de tosquiamento de ovinos
+Servico de manejo de animais
+Atividades de apoio a pecuaria nao especificadas anteriormente
+Atividades de pos-colheita
+Caca e servicos relacionados
+Cultivo de eucalipto
+Cultivo de acacia-negra
+Cultivo de pinus
+Cultivo de teca
+Cultivo de especies madeireiras, exceto eucalipto, acacia-negra, pinus e teca
+Cultivo de mudas em viveiros florestais
+Extracao de madeira em florestas plantadas
+Producao de carvao vegetal - florestas plantadas
+Producao de casca de acacia-negra - florestas plantadas
+Producao de produtos nao-madeireiros nao especificados anteriormente em florestas plantadas
+Extracao de madeira em florestas nativas
+Producao de carvao vegetal - florestas nativas
+Coleta de castanha-do-para em florestas nativas
+Coleta de latex em florestas nativas
+Coleta de palmito em florestas nativas
+Conservacao de florestas nativas
+Coleta de produtos nao-madeireiros nao especificados anteriormente em florestas nativas
+Atividades de apoio a producao florestal
+Pesca de peixes em agua salgada
+Pesca de crustaceos e moluscos em agua salgada
+Coleta de outros produtos marinhos
+Atividades de apoio a pesca em agua salgada
+Pesca de peixes em agua doce
+Pesca de crustaceos e moluscos em agua doce
+Coleta de outros produtos aquaticos de agua doce
+Atividades de apoio a pesca em agua doce
+Criacao de peixes em agua salgada e salobra
+Criacao de camaroes em agua salgada e salobra
+Criacao de ostras e mexilhoes em agua salgada e salobra
+Criacao de peixes ornamentais em agua salgada e salobra
+Atividades de apoio a aquicultura em agua salgada e salobra
+Cultivos e semicultivos da aquicultura em agua salgada e salobra nao especificados nteriormente
+Criacao de peixes em agua doce
+Criacao de camaroes em agua doce
+Criacao de ostras e mexilhoes em agua doce
+Criacao de peixes ornamentais em agua doce
+Ranicultura
+Criacao de jacare
+Atividades de apoio a aquicultura em agua doce
+Cultivos e semicultivos da aquicultura em agua doce nao especificados anteriormente
+Extracao de carvao mineral
+Beneficiamento de carvao mineral
+Extracao de petroleo e gas natural
+Extracao e beneficiamento de xisto
+Extracao e beneficiamento de areias betuminosas
+Extracao de minerio de ferro
+Pelotizacao, sinterizacao e outros beneficiamentos de minerio de ferro
+Extracao de minerio de aluminio
+Beneficiamento de minerio de aluminio
+Extracao de minerio de estanho
+Beneficiamento de minerio de estanho
+Extracao de minerio de manganes
+Beneficiamento de minerio de manganes
+Extracao de minerio de metais preciosos
+Beneficiamento de minerio de metais preciosos
+Extracao de minerais radioativos
+Extracao de minerios de niobio e titanio
+Extracao de minerio de tungstenio
+Extracao de minerio de niquel
+Extracao de minerios de cobre, chumbo, zinco e outros minerais metalicos nao-ferrosos nao especificados anteriormente
+Beneficiamento de minerios de cobre, chumbo, zinco e outros minerais metalicos nao-ferrosos ao especificados anteriormente
+Extracao de ardosia e beneficiamento associado
+Extracao de granito e beneficiamento associado
+Extracao de marmore e beneficiamento associado
+Extracao de calcario e dolomita e beneficiamento associado
+Extracao de gesso e caulim
+Extracao de areia, cascalho ou pedregulho e beneficiamento associado
+Extracao de argila e beneficiamento associado
+Extracao de saibro e beneficiamento associado
+Extracao de basalto e beneficiamento associado
+Beneficiamento de gesso e caulim associado a extracao
+Extracao e britamento de pedras e outros materiais para construcao e beneficiamento ssociado
+Extracao de minerais para fabricacao de adubos, fertilizantes e outros produtos quimicos
+Extracao de sal marinho
+Extracao de sal-gema
+Refino e outros tratamentos do sal
+Extracao de gemas (pedras preciosas e semipreciosas)
+Extracao de grafita
+Extracao de quartzo
+Extracao de amianto
+Extracao de outros minerais nao-metalicos nao especificados anteriormente
+Atividades de apoio a extracao de petroleo e gas natural
+Atividades de apoio a extracao de minerio de ferro
+Atividades de apoio a extracao de minerais metalicos nao-ferrosos
+Atividades de apoio a extracao de minerais nao-metalicos
+Frigorifico - abate de bovinos
+Frigorifico - abate de equinos
+Frigorifico - abate de ovinos e caprinos
+Frigorifico - abate de bufalinos
+Matadouro - abate de reses sob contrato - exceto abate de suinos
+Abate de aves
+Abate de pequenos animais
+Frigorifico - abate de suinos
+Matadouro - abate de suinos sob contrato
+Fabricacao de produtos de carne
+Preparacao de subprodutos do abate
+Preservacao de peixes, crustaceos e moluscos
+Fabricacao de conservas de peixes, crustaceos e moluscos
+Fabricacao de conservas de frutas
+Fabricacao de conservas de palmito
+Fabricacao de conservas de legumes e outros vegetais, exceto palmito
+Fabricacao de sucos concentrados de frutas, hortalicas e legumes
+Fabricacao de sucos de frutas, hortalicas e legumes, exceto concentrados
+Fabricacao de oleos vegetais em bruto, exceto oleo de milho
+Fabricacao de oleos vegetais refinados, exceto oleo de milho
+Fabricacao de margarina e outras gorduras vegetais e de oleos nao-comestiveis de animais
+Preparacao do leite
+Fabricacao de laticinios
+Fabricacao de sorvetes e outros gelados comestiveis
+Beneficiamento de arroz
+Fabricacao de produtos do arroz
+Moagem de trigo e fabricacao de derivados
+Fabricacao de farinha de mandioca e derivados
+Fabricacao de farinha de milho e derivados, exceto oleos de milho
+Fabricacao de amidos e feculas de vegetais
+Fabricacao de oleo de milho em bruto
+Fabricacao de oleo de milho refinado
+Fabricacao de alimentos para animais
+Moagem e fabricacao de produtos de origem vegetal nao especificados anteriormente
+Fabricacao de acucar em bruto
+Fabricacao de acucar de cana refinado
+Fabricacao de acucar de cereais (dextrose) e de beterraba
+Beneficiamento de cafe
+Torrefacao e moagem de cafe
+Fabricacao de produtos a base de cafe
+Fabricacao de produtos de panificacao industrial
+Fabricacao de produtos de padaria e confeitaria com predominancia de producao propria
+Fabricacao de biscoitos e bolachas
+Fabricacao de produtos derivados do cacau e de chocolates
+Fabricacao de frutas cristalizadas, balas e semelhantes
+Fabricacao de massas alimenticias
+Fabricacao de especiarias, molhos, temperos e condimentos
+Fabricacao de alimentos e pratos prontos
+Fabricacao de vinagres
+Fabricacao de pos alimenticios
+Fabricacao de fermentos e leveduras
+Fabricacao de gelo comum
+Fabricacao de produtos para infusao (cha, mate, etc.)
+Fabricacao de adocantes naturais e artificiais
+Fabricacao de alimentos dieteticos e complementos alimentares
+Fabricacao de outros produtos alimenticios nao especificados anteriormente
+Fabricacao de aguardente de cana-de-acucar
+Fabricacao de outras aguardentes e bebidas destiladas
+Fabricacao de vinho
+Fabricacao de malte, inclusive malte uisque
+Fabricacao de cervejas e chopes
+Fabricacao de aguas envasadas
+Fabricacao de refrigerantes
+Fabricacao de cha mate e outros chas prontos para consumo
+Fabricacao de refrescos, xaropes e pos para refrescos, exceto refrescos de frutas
+Fabricacao de bebidas isotonicas
+Fabricacao de outras bebidas nao-alcoolicas nao especificadas anteriormente
+Processamento industrial do fumo
+Fabricacao de cigarros
+Fabricacao de cigarrilhas e charutos
+Fabricacao de filtros para cigarros
+Fabricacao de outros produtos do fumo, exceto cigarros, cigarrilhas e charutos
+Preparacao e fiacao de fibras de algodao
+Preparacao e fiacao de fibras texteis naturais, exceto algodao
+Fiacao de fibras artificiais e sinteticas
+Fabricacao de linhas para costurar e bordar
+Tecelagem de fios de algodao
+Tecelagem de fios de fibras texteis naturais, exceto algodao
+Tecelagem de fios de fibras artificiais e sinteticas
+Fabricacao de tecidos de malha
+Estamparia e texturizacao em fios, tecidos, artefatos texteis e pecas do vestuario
+Alvejamento, tingimento e torcao em fios, tecidos, artefatos texteis e pecas do vestuario
+Outros servicos de acabamento em fios, tecidos, artefatos texteis e pecas do vestuario
+Fabricacao de artefatos texteis para uso domestico
+Fabricacao de artefatos de tapecaria
+Fabricacao de artefatos de cordoaria
+Fabricacao de tecidos especiais, inclusive artefatos
+Fabricacao de outros produtos texteis nao especificados anteriormente
+Confeccao de roupas intimas
+Faccao de roupas intimas
+Confeccao de pecas de vestuario, exceto roupas intimas e as confeccionadas sob medida
+Confeccao, sob medida, de pecas do vestuario, exceto roupas intimas
+Faccao de pecas do vestuario, exceto roupas intimas
+Confeccao de roupas profissionais, exceto sob medida
+Confeccao, sob medida, de roupas profissionais
+Faccao de roupas profissionais
+Fabricacao de acessorios do vestuario, exceto para seguranca e protecao
+Fabricacao de meias
+Fabricacao de artigos do vestuario, produzidos em malharias e tricotagens, exceto meias
+Curtimento e outras preparacoes de couro
+Fabricacao de artigos para viagem, bolsas e semelhantes de qualquer material
+Fabricacao de artefatos de couro nao especificados anteriormente
+Fabricacao de calcados de couro
+Acabamento de calcados de couro sob contrato
+Fabricacao de tenis de qualquer material
+Fabricacao de calcados de material sintetico
+Fabricacao de calcados de materiais nao especificados anteriormente
+Fabricacao de partes para calcados, de qualquer material
+Serrarias com desdobramento de madeira
+Serrarias sem desdobramento de madeira
+Fabricacao de madeira laminada e de chapas de madeira compensada, prensada e aglomerada
+Fabricacao de casas de madeira pre-fabricadas
+Fabricacao de esquadrias de madeira e de pecas de madeira para instalacoes industriais e omerciais
+Fabricacao de outros artigos de carpintaria para construcao
+Fabricacao de artefatos de tanoaria e de embalagens de madeira
+Fabricacao de artefatos diversos de madeira, exceto moveis
+Fabricacao de artefatos diversos de cortica, bambu, palha, vime e outros materiais rancados, exceto moveis
+Fabricacao de celulose e outras pastas para a fabricacao de papel
+Fabricacao de papel
+Fabricacao de cartolina e papel-cartao
+Fabricacao de embalagens de papel
+Fabricacao de embalagens de cartolina e papel-cartao
+Fabricacao de chapas e de embalagens de papelao ondulado
+Fabricacao de formularios continuos
+Fabricacao de produtos de papel, cartolina, papel cartao e papelao ondulado para uso omercial e de escritorio, exceto formulario continuo
+Fabricacao de fraldas descartaveis
+Fabricacao de absorventes higienicos
+Fabricacao de produtos de papel para uso domestico e higienico-sanitario nao especificados nteriormente
+Fabricacao de produtos de pastas celulosicas, papel, cartolina, papel-cartao e papelao ndulado nao especificados anteriormente
+Impressao de jornais
+Impressao de livros, revistas e outras publicacoes periodicas
+Impressao de material de seguranca
+Impressao de material para uso publicitario
+Impressao de material para outros usos
+Servicos de pre-impressao
+Servicos de encadernacao e plastificacao
+Servicos de acabamentos graficos, exceto encadernacao e plastificacao
+Reproducao de som em qualquer suporte
+Reproducao de video em qualquer suporte
+Reproducao de software em qualquer suporte
+Coquerias
+Fabricacao de produtos do refino de petroleo
+Formulacao de combustiveis
+Rerrefino de oleos lubrificantes
+Fabricacao de outros produtos derivados do petroleo, exceto produtos do refino
+Fabricacao de alcool
+Fabricacao de biocombustiveis, exceto alcool
+Fabricacao de cloro e alcalis
+Fabricacao de intermediarios para fertilizantes
+Fabricacao de adubos e fertilizantes organo-minerais
+Fabricacao de adubos e fertilizantes, exceto organo-minerais
+Fabricacao de gases industriais
+Elaboracao de combustiveis nucleares
+Fabricacao de outros produtos quimicos inorganicos nao especificados anteriormente
+Fabricacao de produtos petroquimicos basicos
+Fabricacao de intermediarios para plastificantes, resinas e fibras
+Fabricacao de produtos quimicos organicos nao especificados anteriormente
+Fabricacao de resinas termoplasticas
+Fabricacao de resinas termofixas
+Fabricacao de elastomeros
+Fabricacao de fibras artificiais e sinteticas
+Fabricacao de defensivos agricolas
+Fabricacao de desinfestantes domissanitarios
+Fabricacao de saboes e detergentes sinteticos
+Fabricacao de produtos de limpeza e polimento
+Fabricacao de cosmeticos, produtos de perfumaria e de higiene pessoal
+Fabricacao de tintas, vernizes, esmaltes e lacas
+Fabricacao de tintas de impressao
+Fabricacao de impermeabilizantes, solventes e produtos afins
+Fabricacao de adesivos e selantes
+Fabricacao de polvoras, explosivos e detonantes
+Fabricacao de artigos pirotecnicos
+Fabricacao de fosforos de seguranca
+Fabricacao de aditivos de uso industrial
+Fabricacao de catalisadores
+Fabricacao de chapas, filmes, papeis e outros materiais e produtos quimicos para fotografia
+Fabricacao de outros produtos quimicos nao especificados anteriormente
+Fabricacao de produtos farmoquimicos
+Fabricacao de medicamentos alopaticos para uso humano
+Fabricacao de medicamentos homeopaticos para uso humano
+Fabricacao de medicamentos fitoterapicos para uso humano
+Fabricacao de medicamentos para uso veterinario
+Fabricacao de preparacoes farmaceuticas
+Fabricacao de pneumaticos e de camaras-de-ar
+Reforma de pneumaticos usados
+Fabricacao de artefatos de borracha nao especificados anteriormente
+Fabricacao de laminados planos e tubulares de material plastico
+Fabricacao de embalagens de material plastico
+Fabricacao de tubos e acessorios de material plastico para uso na construcao
+Fabricacao de artefatos de material plastico para uso pessoal e domestico
+Fabricacao de artefatos de material plastico para usos industriais
+Fabricacao de artefatos de material plastico para uso na construcao, exceto tubos e cessorios
+Fabricacao de artefatos de material plastico para outros usos nao especificados nteriormente
+Fabricacao de vidro plano e de seguranca
+Fabricacao de embalagens de vidro
+Fabricacao de artigos de vidro
+Fabricacao de cimento
+Fabricacao de estruturas pre-moldadas de concreto armado, em serie e sob encomenda
+Fabricacao de artefatos de cimento para uso na construcao
+Fabricacao de artefatos de fibrocimento para uso na construcao
+Fabricacao de casas pre-moldadas de concreto
+Preparacao de massa de concreto e argamassa para construcao
+Fabricacao de outros artefatos e produtos de concreto, cimento, fibrocimento, gesso e ateriais semelhantes
+Fabricacao de produtos ceramicos refratarios
+Fabricacao de azulejos e pisos
+Fabricacao de artefatos de ceramica e barro cozido para uso na construcao, exceto azulejos  pisos
+Fabricacao de material sanitario de ceramica
+Fabricacao de produtos ceramicos nao-refratarios nao especificados anteriormente
+Britamento de pedras, exceto associado a extracao
+Aparelhamento de pedras para construcao, exceto associado a extracao
+Aparelhamento de placas e execucao de trabalhos em marmore, granito, ardosia e outras pedras
+Fabricacao de cal e gesso
+Decoracao, lapidacao, gravacao, vitrificacao e outros trabalhos em ceramica, louca, vidro e ristal
+Fabricacao de abrasivos
+Fabricacao de outros produtos de minerais nao-metalicos nao especificados anteriormente
+Producao de ferro-gusa
+Producao de ferroligas
+Producao de semi-acabados de aco
+Producao de laminados planos de aco ao carbono, revestidos ou nao
+Producao de laminados planos de acos especiais
+Producao de tubos de aco sem costura
+Producao de laminados longos de aco, exceto tubos
+Producao de arames de aco
+Producao de relaminados, trefilados e perfilados de aco, exceto arames
+Producao de tubos de aco com costura
+Producao de outros tubos de ferro e aco
+Producao de aluminio e suas ligas em formas primarias
+Producao de laminados de aluminio
+Metalurgia dos metais preciosos
+Metalurgia do cobre
+Producao de zinco em formas primarias
+Producao de laminados de zinco
+Fabricacao de anodos para galvanoplastia
+Metalurgia de outros metais nao-ferrosos e suas ligas nao especificados anteriormente
+Fundicao de ferro e aco
+Fundicao de metais nao-ferrosos e suas ligas
+Fabricacao de estruturas metalicas
+Fabricacao de esquadrias de metal
+Fabricacao de obras de caldeiraria pesada
+Fabricacao de tanques, reservatorios metalicos e caldeiras para aquecimento central
+Fabricacao de caldeiras geradoras de vapor, exceto para aquecimento central e para veiculos
+Producao de forjados de aco
+Producao de forjados de metais nao-ferrosos e suas ligas
+Producao de artefatos estampados de metal
+Metalurgia do po
+Servicos de usinagem, tornearia e solda
+Servicos de tratamento e revestimento em metais
+Fabricacao de artigos de cutelaria
+Fabricacao de artigos de serralheria, exceto esquadrias
+Fabricacao de ferramentas
+Fabricacao de equipamento belico pesado, exceto veiculos militares de combate
+Fabricacao de armas de fogo e municoes
+Fabricacao de embalagens metalicas
+Fabricacao de produtos de trefilados de metal padronizados
+Fabricacao de produtos de trefilados de metal, exceto padronizados
+Fabricacao de artigos de metal para uso domestico e pessoal
+Servicos de confeccao de armacoes metalicas para a construcao
+Servicos de corte e dobra de metais
+Fabricacao de outros produtos de metal nao especificados anteriormente
+Fabricacao de componentes eletronicos
+Fabricacao de equipamentos de informatica
+Fabricacao de perifericos para equipamentos de informatica
+Fabricacao de equipamentos transmissores de comunicacao, pecas e acessorios
+Fabricacao de aparelhos telefonicos e de outros equipamentos de comunicacao, pecas e cessorios
+Fabricacao de aparelhos de recepcao, reproducao, gravacao e amplificacao de audio e video
+Fabricacao de aparelhos e equipamentos de medida, teste e controle
+Fabricacao de cronometros e relogios
+Fabricacao de aparelhos eletromedicos e eletroterapeuticos e equipamentos de irradiacao
+Fabricacao de equipamentos e instrumentos opticos, pecas e acessorios
+Fabricacao de aparelhos fotograficos e cinematograficos, pecas e acessorios
+Fabricacao de midias virgens, magneticas e opticas
+Fabricacao de geradores de corrente continua e alternada, pecas e acessorios
+Fabricacao de transformadores, indutores, conversores, sincronizadores e semelhantes, pecas  acessorios
+Fabricacao de motores eletricos, pecas e acessorios
+Fabricacao de pilhas, baterias e acumuladores eletricos, exceto para veiculos automotores
+Fabricacao de baterias e acumuladores para veiculos automotores
+Recondicionamento de baterias e acumuladores para veiculos automotores
+Fabricacao de aparelhos e equipamentos para distribuicao e controle de energia eletrica
+Fabricacao de material eletrico para instalacoes em circuito de consumo
+Fabricacao de fios, cabos e condutores eletricos isolados
+Fabricacao de lampadas
+Fabricacao de luminarias e outros equipamentos de iluminacao
+Fabricacao de fogoes, refrigeradores e maquinas de lavar e secar para uso domestico, pecas  acessorios
+Fabricacao de aparelhos eletricos de uso pessoal, pecas e acessorios
+Fabricacao de outros aparelhos eletrodomesticos nao especificados anteriormente, pecas e cessorios
+Fabricacao de eletrodos, contatos e outros artigos de carvao e grafita para uso eletrico, letroimas e isoladores
+Fabricacao de equipamentos para sinalizacao e alarme
+Fabricacao de outros equipamentos e aparelhos eletricos nao especificados anteriormente
+Fabricacao de motores e turbinas, pecas e acessorios, exceto para avioes e veiculos odoviarios
+Fabricacao de equipamentos hidraulicos e pneumaticos, pecas e acessorios, exceto valvulas
+Fabricacao de valvulas, registros e dispositivos semelhantes, pecas e acessorios
+Fabricacao de compressores para uso industrial, pecas e acessorios
+Fabricacao de compressores para uso nao industrial, pecas e acessorios
+Fabricacao de rolamentos para fins industriais
+Fabricacao de equipamentos de transmissao para fins industriais, exceto rolamentos
+Fabricacao de fornos industriais, aparelhos e equipamentos nao-eletricos para instalacoes ermicas, pecas e acessorios
+Fabricacao de estufas e fornos eletricos para fins industriais, pecas e acessorios
+Fabricacao de maquinas, equipamentos e aparelhos para transporte e elevacao de pessoas, ecas e acessorios
+Fabricacao de maquinas, equipamentos e aparelhos para transporte e elevacao de cargas, ecas e acessorios
+Fabricacao de maquinas e aparelhos de refrigeracao e ventilacao para uso industrial e omercial, pecas e acessorios
+Fabricacao de aparelhos e equipamentos de ar condicionado para uso industrial
+Fabricacao de aparelhos e equipamentos de ar condicionado para uso nao-industrial
+Fabricacao de maquinas e equipamentos para saneamento basico e ambiental, pecas e acessorios
+Fabricacao de maquinas de escrever, calcular e outros equipamentos nao-eletronicos para scritorio, pecas e acessorios
+Fabricacao de outras maquinas e equipamentos de uso geral nao especificados anteriormente, ecas e acessorios
+Fabricacao de tratores agricolas, pecas e acessorios
+Fabricacao de equipamentos para irrigacao agricola, pecas e acessorios
+Fabricacao de maquinas e equipamentos para a agricultura e pecuaria, pecas e acessorios, xceto para irrigacao
+Fabricacao de maquinas-ferramenta, pecas e acessorios
+Fabricacao de maquinas e equipamentos para a prospeccao e extracao de petroleo, pecas e cessorios
+Fabricacao de outras maquinas e equipamentos para uso na extracao mineral, pecas e cessorios, exceto na extracao de petroleo
+Fabricacao de tratores, pecas e acessorios, exceto agricolas
+Fabricacao de maquinas e equipamentos para terraplenagem, pavimentacao e construcao, pecas  acessorios, exceto tratores
+Fabricacao de maquinas para a industria metalurgica, pecas e acessorios, exceto aquinas-ferramenta
+Fabricacao de maquinas e equipamentos para as industrias de alimentos, bebidas e fumo, ecas e acessorios
+Fabricacao de maquinas e equipamentos para a industria textil, pecas e acessorios
+Fabricacao de maquinas e equipamentos para as industrias do vestuario, do couro e de alcados, pecas e acessorios
+Fabricacao de maquinas e equipamentos para as industrias de celulose, papel e papelao e rtefatos, pecas e acessorios
+Fabricacao de maquinas e equipamentos para a industria do plastico, pecas e acessorios
+Fabricacao de maquinas e equipamentos para uso industrial especifico nao especificados nteriormente, pecas e acessorios
+Fabricacao de automoveis, camionetas e utilitarios
+Fabricacao de chassis com motor para automoveis, camionetas e utilitarios
+Fabricacao de motores para automoveis, camionetas e utilitarios
+Fabricacao de caminhoes e onibus
+Fabricacao de motores para caminhoes e onibus
+Fabricacao de cabines, carrocerias e reboques para caminhoes
+Fabricacao de carrocerias para onibus
+Fabricacao de cabines, carrocerias e reboques para outros veiculos automotores, exceto aminhoes e onibus
+Fabricacao de pecas e acessorios para o sistema motor de veiculos automotores
+Fabricacao de pecas e acessorios para os sistemas de marcha e transmissao de veiculos utomotores
+Fabricacao de pecas e acessorios para o sistema de freios de veiculos automotores
+Fabricacao de pecas e acessorios para o sistema de direcao e suspensao de veiculos utomotores
+Fabricacao de material eletrico e eletronico para veiculos automotores, exceto baterias
+Fabricacao de bancos e estofados para veiculos automotores
+Fabricacao de outras pecas e acessorios para veiculos automotores nao especificadas nteriormente
+Recondicionamento e recuperacao de motores para veiculos automotores
+Construcao de embarcacoes de grande porte
+Construcao de embarcacoes para uso comercial e para usos especiais, exceto de grande porte
+Construcao de embarcacoes para esporte e lazer
+Fabricacao de locomotivas, vagoes e outros materiais rodantes
+Fabricacao de pecas e acessorios para veiculos ferroviarios
+Fabricacao de aeronaves
+Fabricacao de turbinas, motores e outros componentes e pecas para aeronaves
+Fabricacao de veiculos militares de combate
+Fabricacao de motocicletas
+Fabricacao de pecas e acessorios para motocicletas
+Fabricacao de bicicletas e triciclos nao-motorizados, pecas e acessorios
+Fabricacao de equipamentos de transporte nao especificados anteriormente
+Fabricacao de moveis com predominancia de madeira
+Fabricacao de moveis com predominancia de metal
+Fabricacao de moveis de outros materiais, exceto madeira e metal
+Fabricacao de colchoes
+Lapidacao de gemas
+Fabricacao de artefatos de joalheria e ourivesaria
+Cunhagem de moedas e medalhas
+Fabricacao de bijuterias e artefatos semelhantes
+Fabricacao de instrumentos musicais, pecas e acessorios
+Fabricacao de artefatos para pesca e esporte
+Fabricacao de jogos eletronicos
+Fabricacao de mesas de bilhar, de sinuca e acessorios nao associada a locacao
+Fabricacao de mesas de bilhar, de sinuca e acessorios associada a locacao
+Fabricacao de outros brinquedos e jogos recreativos nao especificados anteriormente
+Fabricacao de instrumentos nao-eletronicos e utensilios para uso medico, cirurgico, dontologico e de laboratorio
+Fabricacao de mobiliario para uso medico, cirurgico, odontologico e de laboratorio
+Fabricacao de aparelhos e utensilios para correcao de defeitos fisicos e aparelhos rtopedicos em geral sob encomenda
+Fabricacao de aparelhos e utensilios para correcao de defeitos fisicos e aparelhos rtopedicos em geral, exceto sob encomenda
+Fabricacao de materiais para medicina e odontologia
+Servicos de protese dentaria
+Fabricacao de artigos opticos
+Servico de laboratorio optico
+Fabricacao de escovas, pinceis e vassouras
+Fabricacao de roupas de protecao e seguranca e resistentes a fogo
+Fabricacao de equipamentos e acessorios para seguranca pessoal e profissional
+Fabricacao de guarda-chuvas e similares
+Fabricacao de canetas, lapis e outros artigos para escritorio
+Fabricacao de letras, letreiros e placas de qualquer material, exceto luminosos
+Fabricacao de paineis e letreiros luminosos
+Fabricacao de aviamentos para costura
+Fabricacao de velas, inclusive decorativas
+Fabricacao de produtos diversos nao especificados anteriormente
+Manutencao e reparacao de tanques, reservatorios metalicos e caldeiras, exceto para veiculos
+Manutencao e reparacao de aparelhos e instrumentos de medida, teste e controle
+Manutencao e reparacao de aparelhos eletromedicos e eletroterapeuticos e equipamentos de rradiacao
+Manutencao e reparacao de equipamentos e instrumentos opticos
+Manutencao e reparacao de geradores, transformadores e motores eletricos
+Manutencao e reparacao de baterias e acumuladores eletricos, exceto para veiculos
+Manutencao e reparacao de maquinas, aparelhos e materiais eletricos nao especificados nteriormente
+Manutencao e reparacao de maquinas motrizes nao-eletricas
+Manutencao e reparacao de equipamentos hidraulicos e pneumaticos, exceto valvulas
+Manutencao e reparacao de valvulas industriais
+Manutencao e reparacao de compressores
+Manutencao e reparacao de equipamentos de transmissao para fins industriais
+Manutencao e reparacao de maquinas, aparelhos e equipamentos para instalacoes termicas
+Manutencao e reparacao de maquinas e aparelhos de refrigeracao e ventilacao para uso ndustrial e comercial
+Manutencao e reparacao de maquinas, equipamentos e aparelhos para transporte e elevacao de argas
+Manutencao e reparacao de maquinas de escrever, calcular e de outros equipamentos ao-eletronicos para escritorio
+Manutencao e reparacao de maquinas e equipamentos para uso geral nao especificados nteriormente
+Manutencao e reparacao de maquinas e equipamentos para agricultura e pecuaria
+Manutencao e reparacao de tratores agricolas
+Manutencao e reparacao de maquinas-ferramenta
+Manutencao e reparacao de maquinas e equipamentos para a prospeccao e extracao de petroleo
+Manutencao e reparacao de maquinas e equipamentos para uso na extracao mineral, exceto na xtracao de petroleo
+Manutencao e reparacao de tratores, exceto agricolas
+Manutencao e reparacao de maquinas e equipamentos de terraplenagem, pavimentacao e onstrucao, exceto tratores
+Manutencao e reparacao de maquinas para a industria metalurgica, exceto maquinas-ferramenta
+Manutencao e reparacao de maquinas e equipamentos para as industrias de alimentos, bebidas  fumo
+Manutencao e reparacao de maquinas e equipamentos para a industria textil, do vestuario, do ouro e calcados
+Manutencao e reparacao de maquinas e aparelhos para a industria de celulose, papel e apelao e artefatos
+Manutencao e reparacao de maquinas e aparelhos para a industria do plastico
+Manutencao e reparacao de outras maquinas e equipamentos para usos industriais nao specificados anteriormente
+Manutencao e reparacao de veiculos ferroviarios
+Manutencao e reparacao de aeronaves, exceto a manutencao na pista
+Manutencao de aeronaves na pista
+Manutencao e reparacao de embarcacoes e estruturas flutuantes
+Manutencao e reparacao de embarcacoes para esporte e lazer
+Manutencao e reparacao de equipamentos e produtos nao especificados anteriormente
+Instalacao de maquinas e equipamentos industriais
+Servicos de montagem de moveis de qualquer material
+Instalacao de outros equipamentos nao especificados anteriormente
+Geracao de energia eletrica
+Atividades de coordenacao e controle de operacao de geracao e transmissao de energia letrica
+Transmissao de energia eletrica
+Comercio atacadista de energia eletrica
+Distribuicao de energia eletrica
+Producao de gas; processamento de gas natura
+Distribuicao de combustiveis gasosos por redes urbanas
+Producao e distribuicao de vapor, agua quente e ar condicionado
+Captacao, tratamento e distribuicao de agua
+Distribuicao de agua por caminhoes
+Gestao de redes de esgoto
+Atividades relacionadas a esgoto, exceto a gestao de redes
+Coleta de residuos nao-perigosos
+Coleta de residuos perigosos
+Tratamento e disposicao de residuos nao-perigosos
+Tratamento e disposicao de residuos perigosos
+Recuperacao de sucatas de aluminio
+Recuperacao de materiais metalicos, exceto aluminio
+Recuperacao de materiais plasticos
+Usinas de compostagem
+Recuperacao de materiais nao especificados anteriormente
+Descontaminacao e outros servicos de gestao de residuos
+Incorporacao de empreendimentos imobiliarios
+Construcao de edificios
+Construcao de rodovias e ferrovias
+Pintura para sinalizacao em pistas rodoviarias e aeroportos
+Construcao de obras de arte especiais
+Obras de urbanizacao - ruas, pracas e calcadas
+Construcao de barragens e represas para geracao de energia eletrica
+Construcao de estacoes e redes de distribuicao de energia eletrica
+Manutencao de redes de distribuicao de energia eletrica
+Construcao de estacoes e redes de telecomunicacoes
+Manutencao de estacoes e redes de telecomunicacoes
+Construcao de redes de abastecimento de agua, coleta de esgoto e construcoes correlatas, xceto obras de irrigacao
+Obras de irrigacao
+Construcao de redes de transportes por dutos, exceto para agua e esgoto
+Obras portuarias, maritimas e fluviais
+Montagem de estruturas metalicas
+Obras de montagem industrial
+Construcao de instalacoes esportivas e recreativas
+Outras obras de engenharia civil nao especificadas anteriormente
+Demolicao de edificios e outras estruturas
+Preparacao de canteiro e limpeza de terreno
+ Perfuracoes e sondagens
+Obras de terraplenagem
+Servicos de preparacao do terreno nao especificados anteriormente
+ Instalacao e manutencao eletrica
+Instalacoes hidraulicas, sanitarias e de gas
+Instalacao e manutencao de sistemas centrais de ar condicionado, de ventilacao e efrigeracao
+Instalacoes de sistema de prevencao contra incendio
+Instalacao de paineis publicitarios
+Instalacao de equipamentos para orientacao a navegacao maritima fluvial e lacustre
+Instalacao, manutencao e reparacao de elevadores, escadas e esteiras rolantes
+Montagem e instalacao de sistemas e equipamentos de iluminacao e sinalizacao em vias ublicas, portos e aeroportos
+Tratamentos termicos, acusticos ou de vibracao
+Outras obras de instalacoes em construcoes nao especificadas anteriormente
+Impermeabilizacao em obras de engenharia civil
+Instalacao de portas, janelas, tetos, divisorias e armarios embutidos de qualquer material
+Obras de acabamento em gesso e estuque
+Servicos de pintura de edificios em geral
+Aplicacao de revestimentos e de resinas em interiores e exteriores
+Outras obras de acabamento da construcao
+Obras de fundacoes
+Administracao de obras
+Montagem e desmontagem de andaimes e outras estruturas temporarias
+Obras de alvenaria
+Servicos de operacao e fornecimento de equipamentos para transporte e elevacao de cargas e essoas para uso em obras
+Perfuracao e construcao de pocos de agua
+Servicos especializados para construcao nao especificados anteriormente
+Comercio a varejo de automoveis, camionetas e utilitarios novos
+Comercio a varejo de automoveis, camionetas e utilitarios usados
+Comercio por atacado de automoveis, camionetas e utilitarios novos e usados
+Comercio por atacado de caminhoes novos e usados
+Comercio por atacado de reboques e semi-reboques novos e usados
+Comercio por atacado de onibus e microonibus novos e usados
+Representantes comerciais e agentes do comercio de veiculos automotores
+Comercio sob consignacao de veiculos automotores
+Servicos de manutencao e reparacao mecanica de veiculos automotores
+Servicos de lanternagem ou funilaria e pintura de veiculos automotores
+Servicos de manutencao e reparacao eletrica de veiculos automotores
+Servicos de alinhamento e balanceamento de veiculos automotores
+Servicos de lavagem, lubrificacao e polimento de veiculos automotores
+Servicos de borracharia para veiculos automotores
+Servicos de instalacao, manutencao e reparacao de acessorios para veiculos automotores
+Servicos de capotaria
+Comercio por atacado de pecas e acessorios novos para veiculos automotores
+Comercio por atacado de pneumaticos e camaras-de-ar
+Comercio a varejo de pecas e acessorios novos para veiculos automotores
+Comercio a varejo de pecas e acessorios usados para veiculos automotores
+Comercio a varejo de pneumaticos e camaras-de-ar
+Representantes comerciais e agentes do comercio de pecas e acessorios novos e usados para eiculos automotores
+Comercio por atacado de motocicletas e motonetas
+Comercio por atacado de pecas e acessorios para motocicletas e motonetas
+Comercio a varejo de motocicletas e motonetas novas
+Comercio a varejo de motocicletas e motonetas usadas
+Comercio a varejo de pecas e acessorios para motocicletas e motonetas
+Representantes comerciais e agentes do comercio de motocicletas e motonetas, pecas e cessorios
+Comercio sob consignacao de motocicletas e motonetas
+Manutencao e reparacao de motocicletas e motonetas
+Representantes comerciais e agentes do comercio de materias-primas agricolas e animais vivos
+Representantes comerciais e agentes do comercio de combustiveis, minerais, produtos iderurgicos e quimicos
+Representantes comerciais e agentes do comercio de madeira, material de construcao e erragens
+Representantes comerciais e agentes do comercio de maquinas, equipamentos, embarcacoes e eronaves
+Representantes comerciais e agentes do comercio de eletrodomesticos, moveis e artigos de so domestico
+Representantes comerciais e agentes do comercio de texteis, vestuario, calcados e artigos e viagem
+Representantes comerciais e agentes do comercio de produtos alimenticios, bebidas e fumo
+Representantes comerciais e agentes do comercio de medicamentos, cosmeticos e produtos de erfumaria
+Representantes comerciais e agentes do comercio de instrumentos e materiais donto-medico-hospitalares
+Representantes comerciais e agentes do comercio de jornais, revistas e outras publicacoes
+Outros representantes comerciais e agentes do comercio especializado em produtos nao specificados anteriormente
+Representantes comerciais e agentes do comercio de mercadorias em geral nao especializado
+Comercio atacadista de cafe em grao
+Comercio atacadista de soja
+Comercio atacadista de animais vivos
+Comercio atacadista de couros, las, peles e outros subprodutos nao-comestiveis de origem nimal
+Comercio atacadista de algodao
+Comercio atacadista de fumo em folha nao beneficiado
+Comercio atacadista de cacau
+Comercio atacadista de sementes, flores, plantas e gramas
+Comercio atacadista de sisal
+Comercio atacadista de materias-primas agricolas com atividade de fracionamento e condicionamento associada
+Comercio atacadista de alimentos para animais
+Comercio atacadista de materias-primas agricolas nao especificadas anteriormente
+Comercio atacadista de leite e laticinios
+ Comercio atacadista de cereais e leguminosas beneficiados
+Comercio atacadista de farinhas, amidos e feculas
+Comercio atacadista de cereais e leguminosas beneficiados, farinhas, amidos e feculas, com tividade de fracionamento e acondicionamento associada
+Comercio atacadista de frutas, verduras, raizes, tuberculos, hortalicas e legumes frescos
+Comercio atacadista de aves vivas e ovos
+Comercio atacadista de coelhos e outros pequenos animais vivos para alimentacao
+Comercio atacadista de carnes bovinas e suinas e derivados
+Comercio atacadista de aves abatidas e derivados
+Comercio atacadista de pescados e frutos do mar
+Comercio atacadista de carnes e derivados de outros animais
+Comercio atacadista de agua mineral
+Comercio atacadista de cerveja, chope e refrigerante
+Comercio atacadista de bebidas com atividade de fracionamento e acondicionamento associada
+Comercio atacadista de bebidas nao especificadas anteriormente
+Comercio atacadista de fumo beneficiado
+Comercio atacadista de cigarros, cigarrilhas e charutos
+Comercio atacadista de cafe torrado, moido e soluvel
+Comercio atacadista de acucar
+Comercio atacadista de oleos e gorduras
+Comercio atacadista de paes, bolos, biscoitos e similares
+Comercio atacadista de massas alimenticias
+Comercio atacadista de sorvetes
+Comercio atacadista de chocolates, confeitos, balas, bombons e semelhantes
+Comercio atacadista especializado em outros produtos alimenticios nao especificados nteriormente
+Comercio atacadista de produtos alimenticios em geral
+Comercio atacadista de produtos alimenticios em geral, com atividade de fracionamento e condicionamento associada
+Comercio atacadista de tecidos
+Comercio atacadista de artigos de cama, mesa e banho
+Comercio atacadista de artigos de armarinho
+Comercio atacadista de artigos do vestuario e acessorios, exceto profissionais e de eguranca
+Comercio atacadista de roupas e acessorios para uso profissional e de seguranca do trabalho
+Comercio atacadista de calcados
+Comercio atacadista de bolsas, malas e artigos de viagem
+Comercio atacadista de medicamentos e drogas de uso humano
+Comercio atacadista de medicamentos e drogas de uso veterinario
+Comercio atacadista de instrumentos e materiais para uso medico, cirurgico, hospitalar e de aboratorios
+Comercio atacadista de proteses e artigos de ortopedia
+Comercio atacadista de produtos odontologicos
+Comercio atacadista de cosmeticos e produtos de perfumaria
+Comercio atacadista de produtos de higiene pessoal
+Comercio atacadista de artigos de escritorio e de papelaria
+Comercio atacadista de livros, jornais e outras publicacoes
+Comercio atacadista de equipamentos eletricos de uso pessoal e domestico
+Comercio atacadista de aparelhos eletronicos de uso pessoal e domestico
+Comercio atacadista de bicicletas, triciclos e outros veiculos recreativos
+Comercio atacadista de moveis e artigos de colchoaria
+Comercio atacadista de artigos de tapecaria; persianas e cortina
+Comercio atacadista de lustres, luminarias e abajures
+Comercio atacadista de filmes, CDs, DVDs, fitas e discos
+Comercio atacadista de produtos de higiene, limpeza e conservacao domiciliar
+Comercio atacadista de produtos de higiene, limpeza e conservacao domiciliar, com atividade e fracionamento e acondicionamento associada
+Comercio atacadista de joias, relogios e bijuterias, inclusive pedras preciosas e emipreciosas lapidadas
+Comercio atacadista de outros equipamentos e artigos de uso pessoal e domestico nao specificados anteriormente
+Comercio atacadista de equipamentos de informatica
+Comercio atacadista de suprimentos para informatica
+Comercio atacadista de componentes eletronicos e equipamentos de telefonia e comunicacao
+Comercio atacadista de maquinas, aparelhos e equipamentos para uso agropecuario; partes e eca
+Comercio atacadista de maquinas, equipamentos para terraplenagem, mineracao e construcao; artes e peca
+Comercio atacadista de maquinas e equipamentos para uso industrial; partes e peca
+Comercio atacadista de maquinas, aparelhos e equipamentos para uso donto-medico-hospitalar; partes e peca
+Comercio atacadista de maquinas e equipamentos para uso comercial; partes e peca
+Comercio atacadista de bombas e compressores; partes e peca
+Comercio atacadista de outras maquinas e equipamentos nao especificados anteriormente; artes e peca
+Comercio atacadista de madeira e produtos derivados
+Comercio atacadista de ferragens e ferramentas
+Comercio atacadista de material eletrico
+Comercio atacadista de cimento
+Comercio atacadista de tintas, vernizes e similares
+Comercio atacadista de marmores e granitos
+Comercio atacadista de vidros, espelhos, vitrais e molduras
+Comercio atacadista especializado de materiais de construcao nao especificados anteriormente
+Comercio atacadista de materiais de construcao em geral
+Comercio atacadista de alcool carburante, biodiesel, gasolina e demais derivados de etroleo, exceto lubrificantes, nao realizado por transportador retalhista (T.R.R.)
+Comercio atacadista de combustiveis realizado por transportador retalhista (T.R.R.)
+Comercio atacadista de combustiveis de origem vegetal, exceto alcool carburante
+Comercio atacadista de combustiveis de origem mineral em bruto
+Comercio atacadista de lubrificantes
+Comercio atacadista de gas liquefeito de petroleo (GLP)
+Comercio atacadista de defensivos agricolas, adubos, fertilizantes e corretivos do solo
+Comercio atacadista de resinas e elastomeros
+Comercio atacadista de solventes
+Comercio atacadista de outros produtos quimicos e petroquimicos nao especificados nteriormente
+Comercio atacadista de produtos siderurgicos e metalurgicos, exceto para construcao
+Comercio atacadista de papel e papelao em bruto
+Comercio atacadista de embalagens
+Comercio atacadista de residuos de papel e papelao
+Comercio atacadista de residuos e sucatas nao-metalicos, exceto de papel e papelao
+Comercio atacadista de residuos e sucatas metalicos
+Comercio atacadista de produtos da extracao mineral, exceto combustiveis
+Comercio atacadista de fios e fibras texteis beneficiados
+Comercio atacadista especializado em outros produtos intermediario nao especificados nteriormente
+Comercio atacadista de mercadorias em geral, com predominancia de produtos alimenticios
+Comercio atacadista de mercadorias em geral, com predominancia de insumos agropecuarios
+Comercio atacadista de mercadorias em geral, sem predominancia de alimentos ou de insumos gropecuarios
+Comercio varejista de mercadorias em geral, com predominancia de produtos alimenticios - ipermercados
+Comercio varejista de mercadorias em geral, com predominancia de produtos alimenticios - upermercados
+Comercio varejista de mercadorias em geral, com predominancia de produtos alimenticios - inimercados, mercearias e armazens
+Lojas de departamentos ou magazines
+Lojas de variedades, exceto lojas de departamentos ou magazines
+ Lojas duty free de aeroportos internacionais
+Padaria e confeitaria com predominancia de revenda
+Comercio varejista de laticinios e frios
+Comercio varejista de doces, balas, bombons e semelhantes
+Comercio varejista de carnes - acougues
+Peixaria
+Comercio varejista de bebidas
+Comercio varejista de hortifrutigranjeiros
+Tabacaria
+Comercio varejista de mercadorias em lojas de conveniencia
+Comercio varejista de produtos alimenticios em geral ou especializado em produtos limenticios nao especificados anteriormente
+Comercio varejista de combustiveis para veiculos automotores
+Comercio varejista de lubrificantes
+Comercio varejista de tintas e materiais para pintura
+Comercio varejista de material eletrico
+Comercio varejista de vidros
+Comercio varejista de ferragens e ferramentas
+Comercio varejista de madeira e artefatos
+Comercio varejista de materiais hidraulicos
+Comercio varejista de cal, areia, pedra britada, tijolos e telhas
+Comercio varejista de materiais de construcao nao especificados anteriormente
+Comercio varejista de pedras para revestimento
+Comercio varejista de materiais de construcao em geral
+Comercio varejista especializado de equipamentos e suprimentos de informatica
+Recarga de cartuchos para equipamentos de informatica
+Comercio varejista especializado de equipamentos de telefonia e comunicacao
+Comercio varejista especializado de eletrodomesticos e equipamentos de audio e video
+Comercio varejista de moveis
+Comercio varejista de artigos de colchoaria
+Comercio varejista de artigos de iluminacao
+Comercio varejista de tecidos
+Comercio varejista de artigos de armarinho
+Comercio varejista de artigos de cama, mesa e banho
+Comercio varejista especializado de instrumentos musicais e acessorios
+Comercio varejista especializado de pecas e acessorios para aparelhos eletroeletronicos ara uso domestico, exceto informatica e comunicacao
+Comercio varejista de artigos de tapecaria, cortinas e persianas
+Comercio varejista de outros artigos de uso domestico nao especificados anteriormente
+Comercio varejista de livros
+Comercio varejista de jornais e revistas
+Comercio varejista de artigos de papelaria
+Comercio varejista de discos, CDs, DVDs e fitas
+Comercio varejista de brinquedos e artigos recreativos
+Comercio varejista de artigos esportivos
+Comercio varejista de bicicletas e triciclos; pecas e acessorio
+Comercio varejista de artigos de caca, pesca e camping
+Comercio varejista de embarcacoes e outros veiculos recreativos; pecas e acessorio
+Comercio varejista de produtos farmaceuticos, sem manipulacao de formulas
+Comercio varejista de produtos farmaceuticos, com manipulacao de formulas
+Comercio varejista de produtos farmaceuticos homeopaticos
+Comercio varejista de medicamentos veterinarios
+Comercio varejista de cosmeticos, produtos de perfumaria e de higiene pessoal
+Comercio varejista de artigos medicos e ortopedicos
+Comercio varejista de artigos de optica
+Comercio varejista de artigos do vestuario e acessorios
+Comercio varejista de calcados
+Comercio varejista de artigos de viagem
+Comercio varejista de artigos de joalheria
+Comercio varejista de artigos de relojoaria
+Comercio varejista de gas liquefeito de petroleo (GLP)
+Comercio varejista de antiguidades
+Comercio varejista de outros artigos usados
+Comercio varejista de suvenires, bijuterias e artesanatos
+Comercio varejista de plantas e flores naturais
+Comercio varejista de objetos de arte
+Comercio varejista de animais vivos e de artigos e alimentos para animais de estimacao
+Comercio varejista de produtos saneantes domissanitarios
+Comercio varejista de fogos de artificio e artigos pirotecnicos
+Comercio varejista de equipamentos para escritorio
+Comercio varejista de artigos fotograficos e para filmagem
+Comercio varejista de armas e municoes
+Comercio varejista de outros produtos nao especificados anteriormente
+Transporte ferroviario de carga
+Transporte ferroviario de passageiros intermunicipal e interestadual
+Transporte ferroviario de passageiros municipal e em regiao metropolitana
+Transporte metroviario
+Transporte rodoviario coletivo de passageiros, com itinerario fixo, municipal
+Transporte rodoviario coletivo de passageiros, com itinerario fixo, intermunicipal em egiao metropolitana
+Transporte rodoviario coletivo de passageiros, com itinerario fixo, intermunicipal, exceto m regiao metropolitana
+Transporte rodoviario coletivo de passageiros, com itinerario fixo, interestadual
+Transporte rodoviario coletivo de passageiros, com itinerario fixo, internacional
+Servico de taxi
+Servico de transporte de passageiros - locacao de automoveis com motorista
+Transporte escolar
+Transporte rodoviario coletivo de passageiros, sob regime de fretamento, municipal
+Transporte rodoviario coletivo de passageiros, sob regime de fretamento, intermunicipal, nterestadual e internacional
+Organizacao de excursoes em veiculos rodoviarios proprios, municipal
+Organizacao de excursoes em veiculos rodoviarios proprios, intermunicipal, interestadual e nternacional
+Outros transportes rodoviarios de passageiros nao especificados anteriormente
+Transporte rodoviario de carga, exceto produtos perigosos e mudancas, municipal
+Transporte rodoviario de carga, exceto produtos perigosos e mudancas, intermunicipal, nterestadual e internacional
+Transporte rodoviario de produtos perigosos
+ Transporte rodoviario de mudancas
+Transporte dutoviario
+Trens turisticos, telefericos e similares
+Transporte maritimo de cabotagem - carga
+Transporte maritimo de cabotagem - passageiros
+Transporte maritimo de longo curso - carga
+Transporte maritimo de longo curso - passageiros
+Transporte por navegacao interior de carga, municipal, exceto travessia
+Transporte por navegacao interior de carga, intermunicipal, interestadual e internacional, xceto travessia
+Transporte por navegacao interior de passageiros em linhas regulares, municipal, exceto ravessia
+Transporte por navegacao interior de passageiros em linhas regulares, intermunicipal, nterestadual e internacional, exceto travessia
+Navegacao de apoio maritimo
+Navegacao de apoio portuario
+Servico de rebocadores e empurradores
+Transporte por navegacao de travessia, municipal
+Transporte por navegacao de travessia intermunicipal, interestadual e internacional
+Transporte aquaviario para passeios turisticos
+Outros transportes aquaviarios nao especificados anteriormente
+Transporte aereo de passageiros regular
+Servico de taxi aereo e locacao de aeronaves com tripulacao
+Outros servicos de transporte aereo de passageiros nao-regular
+Transporte aereo de carga
+Transporte espacial
+Armazens gerais - emissao de warrant
+Guarda-moveis
+Depositos de mercadorias para terceiros, exceto armazens gerais e guarda-moveis
+Carga e descarga
+Concessionarias de rodovias, pontes, tuneis e servicos relacionados
+Terminais rodoviarios e ferroviarios
+Estacionamento de veiculos
+Servicos de apoio ao transporte por taxi, inclusive centrais de chamada
+Servicos de reboque de veiculos
+Outras atividades auxiliares dos transportes terrestres nao especificadas anteriormente
+Administracao da infra-estrutura portuaria
+Atividades do Operador Portuario
+Gestao de terminais aquaviarios
+Atividades de agenciamento maritimo
+Servicos de praticagem
+Atividades auxiliares dos transportes aquaviarios nao especificadas anteriormente
+Operacao dos aeroportos e campos de aterrissagem
+Atividades auxiliares dos transportes aereos, exceto operacao dos aeroportos e campos de terrissagem
+Comissaria de despachos
+Atividades de despachantes aduaneiros
+Agenciamento de cargas, exceto para o transporte maritimo
+Organizacao logistica do transporte de carga
+Operador de transporte multimodal - OTM
+Atividades do Correio Nacional
+Atividades de franqueadas e permissionarias do Correio Nacional
+Servicos de malote nao realizados pelo Correio Nacional
+Servicos de entrega rapida
+Hoteis
+Apart-hoteis
+Moteis
+Albergues, exceto assistenciais
+Campings
+Pensoes (alojamento)
+Outros alojamentos nao especificados anteriormente
+Restaurantes e similares
+Bares e outros estabelecimentos especializados em servir bebidas
+Lanchonetes, casas de cha, de sucos e similares
+Servicos ambulantes de alimentacao
+Fornecimento de alimentos preparados preponderantemente para empresas
+Servicos de alimentacao para eventos e recepcoes - bufe
+Cantinas - servicos de alimentacao privativos
+ Fornecimento de alimentos preparados preponderantemente para consumo domiciliar
+Edicao de livros
+Edicao de jornais diarios
+Edicao de jornais nao diarios
+Edicao de revistas
+Edicao de cadastros, listas e de outros produtos graficos
+Edicao integrada a impressao de livros
+Edicao integrada a impressao de jornais diarios
+Edicao integrada a impressao de jornais nao diarios
+Edicao integrada a impressao de revistas
+Edicao integrada a impressao de cadastros, listas e de outros produtos graficos
+ Estudios cinematograficos
+Producao de filmes para publicidade
+Atividades de producao cinematografica, de videos e de programas de televisao nao specificadas anteriormente
+Servicos de dublagem
+Servicos de mixagem sonora em producao audio visual
+Atividades de pos-producao cinematografica, de videos e de programas de televisao nao specificadas anteriormente
+Distribuicao cinematografica, de video e de programas de televisao
+ Atividades de exibicao cinematografica
+Atividades de gravacao de som e de edicao de musica
+Atividades de radio
+Atividades de televisao aberta
+ Programadoras
+Atividades relacionadas a televisao por assinatura, exceto programadoras
+Servicos de telefonia fixa comutada - STFC
+Servicos de redes de transportes de telecomunicacoes - SRTT
+Servicos de comunicacao multimidia - SCM
+Servicos de telecomunicacoes por fio nao especificados anteriormente
+Telefonia movel celular
+ Servico movel especializado - SME
+Servicos de telecomunicacoes sem fio nao especificados anteriormente
+Telecomunicacoes por satelite
+Operadoras de televisao por assinatura por cabo
+Operadoras de televisao por assinatura por microondas
+Operadoras de televisao por assinatura por satelite
+Provedores de acesso as redes de comunicacoes
+Provedores de voz sobre protocolo internet - VOIP
+Outras atividades de telecomunicacoes nao especificadas anteriormente
+Desenvolvimento de programas de computador sob encomenda
+Web design
+Desenvolvimento e licenciamento de programas de computador customizaveis
+Desenvolvimento e licenciamento de programas de computador nao-customizaveis
+Consultoria em tecnologia da informacao
+Suporte tecnico, manutencao e outros servicos em tecnologia da informacao
+Tratamento de dados, provedores de servicos de aplicacao e servicos de hospedagem na nternet
+Portais, provedores de conteudo e outros servicos de informacao na internet
+Agencias de noticias
+Outras atividades de prestacao de servicos de informacao nao especificadas anteriormente
+Banco Central
+Bancos comerciais
+Bancos multiplos, com carteira comercial
+Caixas economicas
+Bancos cooperativos
+Cooperativas centrais de credito
+Cooperativas de credito mutuo
+Cooperativas de credito rural
+Bancos multiplos, sem carteira comercial
+Bancos de investimento
+Bancos de desenvolvimento
+Agencias de fomento
+Sociedades de credito imobiliario
+ Associacoes de poupanca e emprestimo
+Companhias hipotecarias
+Sociedades de credito, financiamento e investimento - financeiras
+Sociedades de credito ao microempreendedor
+Bancos de cambio
+Outras instituicoes de intermediacao nao-monetaria nao especificadas anteriormente.
+ Arrendamento mercantil
+Sociedades de capitalizacao
+Holdings de instituicoes financeiras
+Holdings de instituicoes nao-financeiras
+Outras sociedades de participacao, exceto holdings
+Fundos de investimento, exceto previdenciarios e imobiliarios
+Fundos de investimento previdenciarios
+Fundos de investimento imobiliarios
+Sociedades de fomento mercantil - factoring
+Securitizacao de creditos
+Administracao de consorcios para aquisicao de bens e direitos
+Clubes de investimento
+Sociedades de investimento
+Fundo garantidor de credito
+Caixas de financiamento de corporacoes
+Concessao de credito pelas OSCIP
+Outras atividades de servicos financeiros nao especificadas anteriormente
+Sociedade seguradora de seguros vida
+Planos de auxilio-funeral
+Sociedade seguradora de seguros nao vida
+Sociedade seguradora de seguros saude
+Resseguros
+Previdencia complementar fechada
+Previdencia complementar aberta
+Planos de saude
+Bolsa de valores
+Bolsa de mercadorias
+Bolsa de mercadorias e futuros
+Administracao de mercados de balcao organizados
+Corretoras de titulos e valores mobiliarios
+Distribuidoras de titulos e valores mobiliarios
+Corretoras de cambio
+Corretoras de contratos de mercadorias
+Agentes de investimentos em aplicacoes financeiras
+Administracao de cartoes de credito
+Servicos de liquidacao e custodia
+Correspondentes de instituicoes financeiras
+Representacoes de bancos estrangeiros
+Caixas eletronicos
+Operadoras de cartoes de debito
+Outras atividades auxiliares dos servicos financeiros nao especificadas anteriormente
+Peritos e avaliadores de seguros
+Auditoria e consultoria atuarial
+Corretores e agentes de seguros, de planos de previdencia complementar e de saude
+Atividades auxiliares dos seguros, da previdencia complementar e dos planos de saude nao specificadas anteriormente
+Atividades de administracao de fundos por contrato ou comissao
+Compra e venda de imoveis proprios
+Aluguel de imoveis proprios
+Loteamento de imoveis proprios
+Corretagem na compra e venda e avaliacao de imoveis
+Corretagem no aluguel de imoveis
+Gestao e administracao da propriedade imobiliaria
+Servicos advocaticios
+Atividades auxiliares da justica
+Agente de propriedade industrial
+Cartorios
+ Atividades de contabilidade
+Atividades de consultoria e auditoria contabil e tributaria
+Atividades de consultoria em gestao empresarial, exceto consultoria tecnica especifica
+Servicos de arquitetura
+Servicos de engenharia
+Servicos de cartografia, topografia e geodesia
+Atividades de estudos geologicos
+Servicos de desenho tecnico relacionados a arquitetura e engenharia
+Servicos de pericia tecnica relacionados a seguranca do trabalho
+Atividades tecnicas relacionadas a engenharia e arquitetura nao especificadas anteriormente
+Testes e analises tecnicas
+Pesquisa e desenvolvimento experimental em ciencias fisicas e naturais
+Pesquisa e desenvolvimento experimental em ciencias sociais e humanas
+Agencias de Publicidade
+Agenciamento de espacos para publicidade, exceto em veiculos de comunicacao
+Criacao de estandes para feiras e exposicoes
+Promocao de vendas
+Marketing direto
+Consultoria em publicidade
+Outras atividades de publicidade nao especificadas anteriormente
+Pesquisas de mercado e de opiniao publica
+Design de interiores
+Design de produto
+Atividades de design nao especificadas anteriormente
+Atividades de producao de fotografias, exceto aerea e submarina
+Atividades de producao de fotografias aereas e submarinas
+Laboratorios fotograficos
+Filmagem de festas e eventos
+Servicos de microfilmagem
+Servicos de traducao, interpretacao e similares
+Escafandria e mergulho
+Servicos de agronomia e de consultoria as atividades agricolas e pecuarias
+Atividades de intermediacao e agenciamento de servicos e negocios em geral, exceto mobiliarios
+Agenciamento de profissionais para atividades esportivas, culturais e artisticas
+Outras atividades profissionais, cientificas e tecnicas nao especificadas anteriormente
+Atividades veterinarias
+Locacao de automoveis sem condutor
+ Locacao de embarcacoes sem tripulacao, exceto para fins recreativos
+Locacao de aeronaves sem tripulacao
+Locacao de outros meios de transporte nao especificados anteriormente, sem condutor
+Aluguel de equipamentos recreativos e esportivos
+Aluguel de fitas de video, DVDs e similares
+ Aluguel de objetos do vestuario, joias e acessorios
+Aluguel de aparelhos de jogos eletronicos
+Aluguel de moveis, utensilios e aparelhos de uso domestico e pessoal; instrumentos musicai
+ Aluguel de material medico
+Aluguel de outros objetos pessoais e domesticos nao especificados anteriormente
+Aluguel de maquinas e equipamentos agricolas sem operador
+Aluguel de maquinas e equipamentos para construcao sem operador, exceto andaimes
+Aluguel de andaimes
+Aluguel de maquinas e equipamentos para escritorios
+Aluguel de maquinas e equipamentos para extracao de minerios e petroleo, sem operador
+Aluguel de equipamentos cientificos, medicos e hospitalares, sem operador
+Aluguel de palcos, coberturas e outras estruturas de uso temporario, exceto andaimes
+Aluguel de outras maquinas e equipamentos comerciais e industriais nao especificados nteriormente, sem operador
+Gestao de ativos intangiveis nao-financeiros
+Selecao e agenciamento de mao-de-obra
+Locacao de mao-de-obra temporaria
+Fornecimento e gestao de recursos humanos para terceiros
+Agencias de viagens
+Operadores turisticos
+Servicos de reservas e outros servicos de turismo nao especificados anteriormente
+Atividades de vigilancia e seguranca privada
+Servicos de adestramento de caes de guarda
+Atividades de transporte de valores
+Atividades de monitoramento de sistemas de seguranca eletronico
+Outras atividades de servicos de seguranca
+Atividades de investigacao particular
+Servicos combinados para apoio a edificios, exceto condominios prediais
+Condominios prediais
+Limpeza em predios e em domicilios
+Imunizacao e controle de pragas urbanas
+Atividades de limpeza nao especificadas anteriormente
+Atividades paisagisticas
+Servicos combinados de escritorio e apoio administrativo
+Fotocopias
+Preparacao de documentos e servicos especializados de apoio administrativo nao specificados anteriormente
+Atividades de teleatendimento
+Servicos de organizacao de feiras, congressos, exposicoes e festas
+Casas de festas e eventos
+Atividades de cobrancas e informacoes cadastrais
+Envasamento e empacotamento sob contrato
+Medicao de consumo de energia eletrica, gas e agua
+Emissao de vales-alimentacao, vales-transporte e similares
+Servicos de gravacao de carimbos, exceto confeccao
+Leiloeiros independentes
+Servicos de levantamento de fundos sob contrato
+Casas lotericas
+Salas de acesso a internet
+Outras atividades de servicos prestados principalmente as empresas nao especificadas nteriormente
+Administracao publica em geral
+Regulacao das atividades de saude, educacao, servicos culturais e outros servicos sociais
+Regulacao das atividades economicas
+Relacoes exteriores
+Justica
+Seguranca e ordem publica
+Seguridade social obrigatoria
+Educacao infantil - creche
+Educacao infantil - pre-escola
+Ensino fundamental
+Ensino medio
+Educacao superior - graduacao
+Educacao superior - graduacao e pos-graduacao
+Educacao superior - pos-graduacao e extensao
+Educacao profissional de nivel tecnico
+Educacao profissional de nivel tecnologico
+Administracao de caixas escolares
+Atividade de apoio a educacao, exceto caixas escolares
+Ensino de esportes
+Ensino de danca
+Ensino de artes cenicas, exceto danca
+Ensino de musica
+Ensino de arte e cultura nao especificado anteriormente
+ Ensino de idiomas
+Formacao de condutores
+Cursos de pilotagem
+Treinamento em informatica
+Treinamento em desenvolvimento profissional e gerencial
+Cursos preparatorios para concursos
+Outras atividades de ensino nao especificadas anteriormente
+Atividades de atendimento hospitalar, exceto pronto-socorro e unidades para atendimento a rgencias
+Atividades de atendimento em pronto-socorro e unidades hospitalares para atendimento a rgencias
+UTI movel
+Servicos moveis de atendimento a urgencias, exceto por UTI movel
+Servicos de remocao de pacientes, exceto os servicos moveis de atendimento a urgencias
+Atividade medica ambulatorial com recursos para realizacao de procedimentos cirurgicos
+Atividade medica ambulatorial com recursos para realizacao de exames complementares
+Atividade medica ambulatorial restrita a consultas
+Atividade odontologica.
+Servicos de vacinacao e imunizacao humana
+Atividades de reproducao humana assistida
+Atividades de atencao ambulatorial nao especificadas anteriormente
+Laboratorios de anatomia patologica e citologica
+Laboratorios clinicos
+Servicos de dialise e nefrologia
+Servicos de tomografia
+Servicos de diagnostico por imagem com uso de radiacao ionizante, exceto tomografia
+Servicos de ressonancia magnetica
+Servicos de diagnostico por imagem sem uso de radiacao ionizante, exceto ressonancia agnetica
+Servicos de diagnostico por registro grafico - ECG, EEG e outros exames analogos
+Servicos de diagnostico por metodos opticos - endoscopia e outros exames analogos
+Servicos de quimioterapia
+Servicos de radioterapia
+Servicos de hemoterapia
+Servicos de litotripcia
+Servicos de bancos de celulas e tecidos humanos
+Atividades de servicos de complementacao diagnostica e terapeutica nao especificadas nteriormente
+Atividades de enfermagem
+Atividades de profissionais da nutricao
+Atividades de psicologia e psicanalise
+Atividades de fisioterapia
+Atividades de terapia ocupacional
+Atividades de fonoaudiologia
+Atividades de terapia de nutricao enteral e parenteral
+Atividades de profissionais da area de saude nao especificadas anteriormente
+Atividades de apoio a gestao de saude
+Atividades de praticas integrativas e complementares em saude humana
+Atividades de banco de leite humano
+Atividade de acupuntura
+Atividade de podologia
+Outras atividades de atencao a saude humana nao especificadas anteriormente
+Clinicas e residencias geriatricas
+Instituicoes de longa permanencia para idosos
+Atividades de assistencia a deficientes fisicos, imunodeprimidos e convalescentes
+Centros de apoio a pacientes com cancer e com AIDS
+Condominios residenciais para idosos
+Atividades de fornecimento de infra-estrutura de apoio e assistencia a paciente no domicilio
+Atividades de centros de assistencia psicossocial
+Atividades de assistencia psicossocial e a saude a portadores de disturbios psiquicos, eficiencia mental e dependencia quimica nao especificadas anteriormente
+Orfanatos
+Albergues assistenciais
+Atividades de assistencia social prestadas em residencias coletivas e particulares nao specificadas anteriormente
+Servicos de assistencia social sem alojamento
+Producao teatral
+Producao musical
+Producao de espetaculos de danca
+Producao de espetaculos circenses, de marionetes e similares
+Producao de espetaculos de rodeios, vaquejadas e similares
+Atividades de sonorizacao e de iluminacao
+Artes cenicas, espetaculos e atividades complementares nao especificadas anteriormente
+Atividades de artistas plasticos, jornalistas independentes e escritores
+Restauracao de obras-de-arte
+Gestao de espacos para artes cenicas, espetaculos e outras atividades artisticas
+Atividades de bibliotecas e arquivos
+Atividades de museus e de exploracao de lugares e predios historicos e atracoes similares
+Restauracao e conservacao de lugares e predios historicos
+Atividades de jardins botanicos, zoologicos, parques nacionais, reservas ecologicas e areas e protecao ambiental
+Casas de bingo
+Exploracao de apostas em corridas de cavalos
+Exploracao de jogos de azar e apostas nao especificados anteriormente
+Gestao de instalacoes de esportes
+Clubes sociais, esportivos e similares
+Atividades de condicionamento fisico
+Producao e promocao de eventos esportivos
+Outras atividades esportivas nao especificadas anteriormente
+Parques de diversao e parques tematicos
+Discotecas, danceterias, saloes de danca e similares
+Exploracao de boliches
+Exploracao de jogos de sinuca, bilhar e similares
+Exploracao de jogos eletronicos recreativos
+Outras atividades de recreacao e lazer nao especificadas anteriormente
+Atividades de organizacoes associativas patronais e empresariais
+Atividades de fiscalizacao profissional
+Outras atividades associativas profissionais
+Atividades de organizacoes sindicais
+Atividades de organizacoes religiosas ou filosoficas
+Atividades de organizacoes politicas
+Atividades de organizacoes associativas ligadas a cultura e a arte
+Atividades associativas nao especificadas anteriormente
+Reparacao e manutencao de computadores e de equipamentos perifericos
+Reparacao e manutencao de equipamentos de comunicacao
+Reparacao e manutencao de equipamentos eletroeletronicos de uso pessoal e domestico
+Reparacao de calcados, bolsas e artigos de viagem
+Chaveiros
+Reparacao de relogios
+Reparacao de bicicletas, triciclos e outros veiculos nao-motorizados
+Reparacao de artigos do mobiliario
+Reparacao de joias
+Reparacao e manutencao de outros objetos e equipamentos pessoais e domesticos nao specificados anteriormente
+Lavanderias
+Tinturarias
+Toalheiros
+Cabeleireiros, manicure e pedicure
+Atividades de estetica e outros servicos de cuidados com a beleza
+Gestao e manutencao de cemiterios
+Servicos de cremacao
+Servicos de sepultamento
+Servicos de funerarias
+Servicos de somatoconservacao
+Atividades funerarias e servicos relacionados nao especificados anteriormente
+Agencias matrimoniais
+Exploracao de maquinas de servicos pessoais acionadas por moeda
+Atividades de sauna e banhos
+Servicos de tatuagem e colocacao de piercing
+Alojamento de animais domesticos
+Higiene e embelezamento de animais domesticos
+Outras atividades de servicos pessoais nao especificadas anteriormente
+Servicos domesticos
+Organismos internacionais e outras instituicoes extraterritoriais
